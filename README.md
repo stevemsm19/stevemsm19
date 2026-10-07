@@ -14,12 +14,12 @@ I enjoy working on web applications, APIs, automation, cloud infrastructure, and
 ## 🌎 Languages
 
 - 🇪🇸 **Spanish:** Native
-- 🇬🇧 **English:** B1/B2
+- 🇺🇸 **English:** B1/B2
 - 🇧🇷 **Portuguese:** B2
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-mu%C3%B1oz-85a43935a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevemsm199)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stevemsm199@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://upwork.com/freelancers/oscarstevenm)
 
